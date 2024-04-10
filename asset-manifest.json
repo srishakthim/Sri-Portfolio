@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sri-Portfolio/static/css/main.373d82e5.css",
-    "main.js": "/Sri-Portfolio/static/js/main.aeff708b.js",
+    "main.js": "/Sri-Portfolio/static/js/main.be71613e.js",
     "static/media/SriShakthi_Resume.pdf": "/Sri-Portfolio/static/media/SriShakthi_Resume.20fcef435d97b8f7f16b.pdf",
     "static/media/BlueTheme.png": "/Sri-Portfolio/static/media/BlueTheme.d65a26db2e4919cd6a28.png",
     "static/media/music.png": "/Sri-Portfolio/static/media/music.f9a428e2770e94fff875.png",
@@ -9,10 +9,10 @@
     "static/media/wire.png": "/Sri-Portfolio/static/media/wire.afb85cc2c05131052038.png",
     "index.html": "/Sri-Portfolio/index.html",
     "main.373d82e5.css.map": "/Sri-Portfolio/static/css/main.373d82e5.css.map",
-    "main.aeff708b.js.map": "/Sri-Portfolio/static/js/main.aeff708b.js.map"
+    "main.be71613e.js.map": "/Sri-Portfolio/static/js/main.be71613e.js.map"
   },
   "entrypoints": [
     "static/css/main.373d82e5.css",
-    "static/js/main.aeff708b.js"
+    "static/js/main.be71613e.js"
   ]
 }
