@@ -1,0 +1,206 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.heading {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.content {
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 14px !important;
+}
+
+body {
+    background-color: #F2F5F9;
+}
+
+.notfound {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.name {
+    font-weight: 600 !important;
+    font-size: 28px !important;
+}
+
+.role {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    padding: 3px 0px 10px 0px;
+    color: #0B0909;
+    opacity: 50%;
+}
+
+.socialIcons {
+    background-color: #F2F7FC !important;
+    border-radius: 12px !important;
+    min-width: 50px;
+    min-height: 50px;
+
+}
+
+.contactdetails {
+    background-color: #F2F5F9;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-height: 65%;
+    padding: 10px;
+    margin: 15px 25px;
+}
+
+.contactHeading {
+    font-size: 12px !important;
+    color: #464646;
+    opacity: 50%;
+}
+
+.contactDescription {
+    font-size: 14px !important;
+}
+
+.primaryButton {
+    border-radius: 20px !important;
+    font-size: 12px !important;
+    background: linear-gradient(91deg, #32b2a5 7.92%, #1e746c 108.2%);
+    text-transform: none !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    text-transform: none;
+
+}
+
+.brand {
+    background: linear-gradient(91deg, #32b2a5 7.92%, #1e746c 108.2%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.nav {
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    padding: 8px 10px;
+    background-color: #E1E8EF;
+    text-decoration: none !important;
+    color: inherit !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black !important;
+    font-weight: 500;
+}
+
+.navLinks {
+    font-size: 12px !important;
+
+}
+
+.active {
+    color: white !important;
+    background: linear-gradient(91deg, #32b2a5 7.92%, #1e746c 108.2%);
+}
+
+.card {
+    padding: 15px;
+    border-radius: 12px;
+    text-align: justify;
+    min-height: 120px;
+}
+
+.pink {
+    background-color: #c7f7f7 !important;
+}
+
+.blue {
+    background-color: #F2F7FC !important;
+}
+
+.title {
+    font-weight: 600 !important;
+}
+
+.card-title {
+    font-size: 16px !important;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+}
+
+.year {
+    font-size: 12px !important;
+    color: #515151 !important;
+    font-weight: 400 !important;
+}
+
+.role {
+    font-size: 14px !important;
+    color: #000 !important;
+    opacity: 100%;
+    padding: 3px 0px;
+    font-weight: 600 !important;
+}
+
+.at {
+    font-size: 13px !important;
+    color: #000 !important;
+    font-weight: 500 !important;
+}
+
+.chip {
+    padding: 8px 15px !important;
+    display: inline !important;
+    background-color: #E1E8EF !important;
+    color: #000 !important;
+    font-weight: 500 !important;
+    margin: 6px !important;
+    border-radius: 20px;
+}
+
+.mode {
+    padding: 15px !important;
+    background-color: #F2F7FC !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+@media screen and (max-width: 350px) {
+    .smallDevice {
+        margin-top: 35% !important;
+    }
+}
+
+@media screen and (min-width: 351px) and (max-width: 400px) {
+    .smallDevice {
+        margin-top: 25% !important;
+    }
+
+    .sm {
+        height: 90vh !important;
+    }
+}
+
+@media screen and (min-width: 450px) and (max-width: 599px) {
+    .smallDevice {
+        margin-top: 15% !important;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 740px) {
+    .smallDevice {
+        margin-top: 15% !important;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1015px) {
+    .smallDevice {
+        margin-top: 35% !important;
+    }
+}
